@@ -62,7 +62,7 @@ This task is challenging because:
 ## Dataset
 
 The dataset used in this project contains short text samples labeled with one emotion.
-
+link dataset : https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp?resource=download&select=train.txt
 The data is split into three files:
 
 ```text
