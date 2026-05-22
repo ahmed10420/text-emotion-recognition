@@ -1,0 +1,8 @@
+streamlit
+torch
+numpy
+transformers
+scipy
+plotly
+deep-translator
+langdetect
