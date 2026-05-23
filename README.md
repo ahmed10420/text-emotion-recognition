@@ -58,6 +58,12 @@ This task is challenging because:
 - the model must understand the context of words, not only isolated keywords.
 
 ---
+## Contributors
+
+This project was developed by:
+
+- Ahmed Gaabi
+- Mouaffak Yassine Haddar
 
 ## Dataset
 
